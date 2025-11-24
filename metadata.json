@@ -1,0 +1,5 @@
+{
+  "name": "OptiPower Dispatch(full version)",
+  "description": "A web-based optimization tool for Energy and Reserve allocation, converting MATLAB logic into a modern React application. It solves the economic dispatch problem with coupled capacity constraints.",
+  "requestFramePermissions": []
+}
